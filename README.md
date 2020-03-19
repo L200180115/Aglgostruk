@@ -1,1 +1,1 @@
-# Aglgostruk
+# Algostruk
